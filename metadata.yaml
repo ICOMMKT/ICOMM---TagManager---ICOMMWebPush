@@ -1,5 +1,5 @@
 homepage: "https://www.icommkt.com"
 documentation: "https://www.icommkt.com"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: d29712d9603d94601cfcec003ed7e3a0fd3b1891
     changeNotes: Initial release.
